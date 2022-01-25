@@ -1,4 +1,4 @@
-Fork of # [FSHistory][https://github.com/s-macke/FSHistory]
+Fork of FSHistory
 =========
 
 Play and Enjoy the History of Microsoft Flight Simulator
